@@ -3,9 +3,9 @@
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <link rel="stylesheet" href="css/style.css" />
-    <link rel="stylesheet" href="css/responsive.css" />
-    <title>Abrar Astafaraiz - College Student of Informatics Engineering</title>
+    <link rel="stylesheet" href="styles/style.css" />
+    <link rel="stylesheet" href="styles/responsive.css" />
+    <title>Dimas Abimanyu - Software Engineer</title>
   </head>
   <body>
     <!-- Header -->
@@ -13,7 +13,7 @@
       <div class="main-container">
         <div class="nav">
           <div class="logo">
-            <a href="/">AA</a>
+            <a href="/">DA</a>
           </div>
 
           <nav>
@@ -40,7 +40,7 @@
         <section id="hero">
           <div class="hero-left">
             <h3 class="pre-title">My name is</h3>
-            <h1 class="hero-name">Abrar <span>Astafaraiz</span></h1>
+            <h1 class="hero-name">Dimas <span>Abimanyu</span></h1>
             <p>
               Creative front-end developer with more than +5 years of experience
               in enterprise companies and startups. Proficient in Javascript and
@@ -469,6 +469,6 @@
     </footer>
     <!-- End Footer -->
 
-    <script src="javascript/main.js"></script>
+    <script src="js/main.js"></script>
   </body>
 </html>
